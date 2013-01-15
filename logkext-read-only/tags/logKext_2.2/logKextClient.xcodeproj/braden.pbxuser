@@ -1,0 +1,134 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Deployment;
+		activeExecutable = F89F1515090DBF4C00543619 /* logKextClient */;
+		activeTarget = 8DD76F740486A8DE00D96B5E /* logKextClient */;
+		addToTargets = (
+			8DD76F740486A8DE00D96B5E /* logKextClient */,
+		);
+		codeSenseManager = F89F151E090DBF4E00543619 /* Code sense */;
+		executables = (
+			F89F1515090DBF4C00543619 /* logKextClient */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					194,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					154,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 227717150;
+			PBXWorkspaceStateSaveDate = 227717150;
+		};
+		sourceControlManager = F89F151D090DBF4E00543619 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8DD76F740486A8DE00D96B5E /* logKextClient */ = {
+		activeExec = 0;
+		executables = (
+			F89F1515090DBF4C00543619 /* logKextClient */,
+		);
+	};
+	F8610A0009284D26003C3B7F /* logKextClient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {848, 498}}";
+			sepNavSelRange = "{642, 0}";
+			sepNavVisRange = "{0, 743}";
+			sepNavVisRect = "{{0, 0}, {868, 497}}";
+			sepNavWindowFrame = "{{38, 152}, {907, 626}}";
+		};
+	};
+	F86CC3AD0D12DF940038E494 /* logKextCommon.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 561}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRange = "{0, 997}";
+			sepNavWindowFrame = "{{15, 84}, {1058, 689}}";
+		};
+	};
+	F89F1515090DBF4C00543619 /* logKextClient */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = logKextClient;
+		sourceDirectories = (
+		);
+	};
+	F89F151D090DBF4E00543619 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	F89F151E090DBF4E00543619 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F89F151F090DBF6B00543619 /* logKextClient.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1016, 7644}}";
+			sepNavSelRange = "{19353, 0}";
+			sepNavVisRange = "{18210, 1470}";
+			sepNavVisRect = "{{0, 5751}, {868, 553}}";
+			sepNavWindowFrame = "{{236, 152}, {907, 626}}";
+		};
+	};
+}

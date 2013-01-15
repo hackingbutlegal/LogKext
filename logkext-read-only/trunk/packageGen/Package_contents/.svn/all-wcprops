@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/packageGen/Package_contents
+END
+LogKextUninstall.command
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/18/trunk/packageGen/Package_contents/LogKextUninstall.command
+END
+LogKext Readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/27/trunk/packageGen/Package_contents/LogKext%20Readme.html
+END
